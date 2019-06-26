@@ -11,3 +11,4 @@
 | #1                         | [Paddy's Irish Pub & Eatery](https://www.facebook.com/paddysmoscow)             | 12 February 2019  |
 | #2                         | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 16 April 2019     |
 | #3 (PHP Russia Special)    | [Urozhay](https://www.facebook.com/rodnoyurozhay)                               | 17 May 2019       |
+| #4 (5th anniversary)       | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 4 July 2019       |
