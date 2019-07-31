@@ -12,3 +12,4 @@
 | #2                         | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 16 April 2019     |
 | #3 (PHP Russia Special)    | [Urozhay](https://www.facebook.com/rodnoyurozhay)                               | 17 May 2019       |
 | #4 (5th anniversary)       | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 4 July 2019       |
+| #5 (Panda Meetup Special)  | [Vetka Bar](https://vk.com/vetkabar)                                            | 22 August 2019    |
