@@ -14,4 +14,6 @@
 | #4 (5th anniversary)           | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 4 July 2019       |
 | #5 (Panda Meetup Special)      | [Vetka Bar](https://vk.com/vetkabar)                                            | 22 August 2019    |
 | #6 (Badoo PHP Meetup Special)  | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 21 September 2019 |
-| #7 | [Опорный Пункт](http://оппаб.рф)                                    | 7 November 2019 |
+| #7                             | [Опорный Пункт](http://оппаб.рф)                                                | 7 November 2019   |
+| #8 (One Year Special)          | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 25 December 2019  |
+| #9 (Badoo PHP Meetup Special)  | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 55 February 2020  |
