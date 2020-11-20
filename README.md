@@ -17,4 +17,4 @@
 | #7                             | [Опорный Пункт](http://оппаб.рф)                                                | 7 November 2019   |
 | #8 (One Year Special)          | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 25 December 2019  |
 | #9 (Badoo PHP Meetup Special)  | [Pig & Rose](https://www.pigandrose.me/rus/)                                    | 15 February 2020  |
-| #10 (LIVE!)|                   | [Spatial.Chat](https://t.me/beerphp_moscow)                                     | 26 November 2020  |
+| #10 (LIVE!)                    | [Spatial.Chat](https://t.me/beerphp_moscow)                                     | 26 November 2020  |
